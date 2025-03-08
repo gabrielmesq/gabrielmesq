@@ -39,6 +39,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/gabrielmesq/gabrielmesq/output/snake.svg" alt="Snake animation" />
 
 ###
