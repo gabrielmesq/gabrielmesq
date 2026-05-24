@@ -4,11 +4,11 @@
 
 **Desenvolvedor com foco em dados, engenharia de software e aplicações de grande escala.**
 
-Atualmente graduando em Sistemas para Internet pela UNCISAL, busco sempre unir performance e inovação nas minhas soluções. Tenho um grande interesse em explorar desde a construção de APIs robustas no Back-end até a análise de dados, integração com Machine Learning e Web Scraping.
+Atualmente graduando em Sistemas para Internet pela UNCISAL, busco sempre unir performance e inovação nas minhas soluções. Tenho um grande interesse em explorar desde a construção de aplicações robustas no Back-end até a engenharia desses dados e integração com Machine Learning.
 
 ### 🚀 Minha Stack
 
-*   🦄 **Linguagens & Frameworks:** Java (Spring Boot), Python (FastAPI, Análise de Dados), JavaScript (React, Next.js) e SQL.
+*   🦄 **Linguagens & Frameworks:** Java (Spring Boot), Python (FastAPI, Engenharia de dados), JavaScript (React, Next.js) e SQL.
 *   💻 **Ambiente & Ferramentas:** Linux, VS Code, e ferramentas de IA aplicadas ao desenvolvimento.
 
 ### 💌 Vamos conversar?
