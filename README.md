@@ -1,31 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<p align="left"> 
-  Desenvolvedor com foco em dados e aplicações de grande escala. Back-end em <strong>Java, Python para anlise e React com nexyJS para frontEnd</strong>
-</p>
+# Olá! 👋
 
-<p align="left">
-  🦄 Linguagens: **Java (spring boot), JavaScript(react e nexyJs), Python(FastAPI).**
-</p>
+**Desenvolvedor com foco em dados, engenharia de software e aplicações de grande escala.**
 
-<p align="left">
-  💼 Ferramentas: **Vscode, IA.**
-</p>
+Atualmente graduando em Sistemas para Internet pela UNCISAL, busco sempre unir performance e inovação nas minhas soluções. Tenho um grande interesse em explorar desde a construção de APIs robustas no Back-end até a análise de dados, integração com Machine Learning e Web Scraping.
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-  Entre em contato comigo via email em gabrielmesquita800@hotmail.com para projetos
-</p>
+### 🚀 Minha Stack
+
+*   🦄 **Linguagens & Frameworks:** Java (Spring Boot), Python (FastAPI, Análise de Dados), JavaScript (React, Next.js) e SQL.
+*   💻 **Ambiente & Ferramentas:** Linux, VS Code, e ferramentas de IA aplicadas ao desenvolvimento.
+
+### 💌 Vamos conversar?
+
+Estou sempre aberto a novos projetos, oportunidades ou apenas para trocar uma ideia! Entre em contato:
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="mailto:gabrielmesquita800@hotmail.com" title="Email">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="SEU_LINK_DO_WHATSAPP_AQUI" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="SEU_LINK_DO_INSTAGRAM_AQUI" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
