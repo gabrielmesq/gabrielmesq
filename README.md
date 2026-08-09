@@ -1,27 +1,28 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+**Gabriel**  ☕🍃 <br>
+**Building systems that endure**  
+****Software Engineering · Cybersecurity****
 
-# Olá! 👋
-
-**Desenvolvedor com foco em dados, engenharia de software e aplicações de grande escala.**
-
-Atualmente graduando em Sistemas para Internet pela UNCISAL, busco sempre unir performance e inovação nas minhas soluções. Tenho um grande interesse em explorar desde a construção de aplicações robustas no Back-end até a engenharia desses dados e integração com Machine Learning.
-
-### 🚀 Minha Stack
-
-*   🦄 **Linguagens & Frameworks:** Java (Spring Boot), Python (FastAPI, Engenharia de dados), JavaScript (React, Next.js) e SQL.
-*   💻 **Ambiente & Ferramentas:** Linux, VS Code, e ferramentas de IA aplicadas ao desenvolvimento.
-
-### 💌 Vamos conversar?
-
-Estou sempre aberto a novos projetos, oportunidades ou apenas para trocar uma ideia! Entre em contato:
-
-<p align="left">
-  <a href="mailto:gabrielmesquita800@hotmail.com" title="Email">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="SEU_LINK_DO_WHATSAPP_AQUI" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="SEU_LINK_DO_INSTAGRAM_AQUI" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielmesq&hide_border=true&theme=transparent" height="150">
 </p>
+
+<div align="center">
+
+  <br>
+
+  <img src="https://cdn.simpleicons.org/openjdk" width="28" alt="Java">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spring" width="28" alt="Spring">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" width="28" alt="Docker">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" width="28" alt="JavaScript">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go" width="28" alt="Go">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes" width="28" alt="Kubernetes">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws" width="28" alt="AWS">
+
+</div>
+
